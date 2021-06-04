@@ -6,12 +6,16 @@ const HomeScreen = ({navigation}) => {
   return <View>
     <Text style={styles.text}>melih</Text>
     <Button 
-      onPress ={() => props.navigation.navigate('Components')}
-      title="buton" 
+      onPress ={() => navigation.navigate('Components')}
+      title="gotocomponents" 
     />
     <Button
       title = "gotolist"
       onPress = {()=> navigation.navigate("List")}
+    />
+    <Button
+      title = "gotoimages"
+      onPress = {()=> navigation.navigate("Images")}
     />
     <TouchableOpacity onPress ={()=> navigation.navigate('List')}>
       <Text style={styles.text}>Go to List</Text>
