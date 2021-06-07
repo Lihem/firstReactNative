@@ -1,3 +1,3 @@
 # firstReactNative
 Son commit bilgileri:
-  counter ve randomcolor ornek uygulamalari
+  parent - child arasinda state aktarimi ornek uygulama
