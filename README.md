@@ -1,3 +1,3 @@
 # firstReactNative
 Son commit bilgileri:
-  reusable components ve image kullanimi
+  counter ve randomcolor ornek uygulamalari
