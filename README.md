@@ -1,3 +1,3 @@
 # firstReactNative
 Son commit bilgileri:
-  reducer ile state kullanimi
+  TextInput ile text alma ve isleme
