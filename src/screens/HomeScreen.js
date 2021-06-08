@@ -33,6 +33,10 @@ const HomeScreen = ({navigation}) => {
       title = "ReducerCounter"
       onPress = {()=> navigation.navigate("RCounter")}
     />
+    <Button
+      title = "gototextScreen"
+      onPress = {()=> navigation.navigate("TextS")}
+    />
     <TouchableOpacity onPress ={()=> navigation.navigate('List')}>
       <Text style={styles.text}>Go to List</Text>
     </TouchableOpacity>
