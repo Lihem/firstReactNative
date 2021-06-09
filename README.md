@@ -1,3 +1,2 @@
 # firstReactNative
-Son commit bilgileri:
-  TextInput ile text alma ve isleme
+Yeni app github reposu => https://github.com/Lihem/RestaurantSearchApp
